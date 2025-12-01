@@ -1,2 +1,5 @@
 cairosvg
-pillow
+Pillow
+tqdm
+colorama
+rich
